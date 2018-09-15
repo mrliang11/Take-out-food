@@ -3,13 +3,13 @@
     <v-header v-if="seller" :seller = "seller"></v-header>
     <div class="tab border-1px">
       <div class="tab-item">
-        <router-link to='/goods'>商品</router-link>
+        <router-link to='/goods'>商品信息</router-link>
       </div>
       <div class="tab-item">
         <router-link to='/ratings'>评价栏</router-link>
       </div>
       <div class="tab-item">
-        <router-link to='/sellers'>商家</router-link>
+        <router-link to='/sellers'>商家信息</router-link>
       </div>
     </div>
     <div class="content">
