@@ -6,7 +6,7 @@
         <router-link to='/goods'>商品信息</router-link>
       </div>
       <div class="tab-item">
-        <router-link to='/ratings'>评价栏</router-link>
+        <router-link to='/ratings'>评价栏信息</router-link>
       </div>
       <div class="tab-item">
         <router-link to='/sellers'>商家信息</router-link>
